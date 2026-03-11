@@ -1,0 +1,17 @@
+#Problem_1 : 
+Print Welcome to Python Programming
+
+#Problem_2:
+Print your Name, Country and Goal
+
+Example Output: 
+Name: Shahadat
+Country: Bangladesh
+Goal: Backend Developer
+
+#Problem_3:
+Print result of:
+25 + 75
+50 - 10
+6 * 8
+100 / 4
