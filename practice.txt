@@ -15,3 +15,23 @@ Print result of:
 50 - 10
 6 * 8
 100 / 4
+
+#Problem_04
+Take input:
+Name, University, Department
+Print:
+Student Information
+Name: ___
+University: ___
+Department: ___
+
+#problem_05
+Take input of two numbers and print their sum.
+
+Example output:
+
+Enter first number: 10
+Enter second number: 20
+Sum: 30
+
+#Problem_06
