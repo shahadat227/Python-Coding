@@ -1,9 +1,9 @@
 #Problem_1 : 
 Print Welcome to Python Programming
 
+
 #Problem_2:
 Print your Name, Country and Goal
-
 Example Output: 
 Name: Shahadat
 Country: Bangladesh
@@ -16,6 +16,7 @@ Print result of:
 6 * 8
 100 / 4
 
+
 #Problem_04
 Take input:
 Name, University, Department
@@ -25,13 +26,60 @@ Name: ___
 University: ___
 Department: ___
 
+
 #problem_05
 Take input of two numbers and print their sum.
-
 Example output:
-
 Enter first number: 10
 Enter second number: 20
 Sum: 30
 
+
 #Problem_06
+Take a number and print:
+Even number or Odd number ? 
+
+
+#Problem_07
+Take marks and print:
+Pass if marks ≥ 50
+Fail otherwise
+
+
+#Problem_08
+Take two numbers and print the largest.
+Example:
+Enter first number: 10
+Enter second number: 20
+Largest number is 20
+
+
+#Problem_09
+Using loops Print Even Numbers:
+2
+4
+6
+8
+10
+
+
+#Problem_10
+using loops Calculate:
+1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
+output:
+Sum =  55
+
+
+#problem_11
+Countdown
+Print:
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
