@@ -83,3 +83,26 @@ Print:
 3
 2
 1
+
+
+#problem_12 (Print List Elements)
+Create list:
+[5, 10, 15, 20]
+Print each element using a loop.
+
+
+#problem_13 (Add Element)
+Create list:
+[10, 20, 30]
+Add 40 to the list.
+Expected output:
+[10, 20, 30, 40]
+
+
+#problem_14 (Find Sum of List)
+List:
+[5, 10, 15]
+Output:
+Sum = 30
+
+
