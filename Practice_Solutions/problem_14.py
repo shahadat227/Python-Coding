@@ -1,7 +1,7 @@
-temp = 0
-
 numbers = [5, 10, 15]
-
+total = 0
 
 for num in numbers:
-    print("Sum",)
+    total = total + num
+
+print("Sum =",total)
