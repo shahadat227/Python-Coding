@@ -105,13 +105,16 @@ List:
 Output:
 Sum = 30
 
+
 #problem_15 (Create Dictionary )
 Create dictionary:
 name, age, country
 Print all values.
 
+
 #problem_16 (Update Value in the dictionary )
 Change age from 22 → 25  in the dictionary
+
 
 #problem_17 (Loop Dictionary )
 using loop in the dictionary , Print:
@@ -119,4 +122,23 @@ name : Shahadat
 age : 22
 country : Bangladesh
 
+
+#problem_18 (Greeting Function )
+Create function:
+greet(name)
+Output:
+Hello Shahadat
+
+
+#problem_19 (Even or Odd Function )
+Create function:
+check_even(number)
+Output:
+Even or Odd
+
+
+#problem_20 (Sum Function )
+Create function:
+sum_numbers(a, b)
+Return the sum.
 
