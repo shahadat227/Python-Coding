@@ -142,3 +142,21 @@ Create function:
 sum_numbers(a, b)
 Return the sum.
 
+
+#problem_21 (Class Creation )
+Create class Car
+Attributes: brand , price
+
+#problem_22 (Method )
+Create method:
+show_details()
+Output:
+Brand: Toyota
+Price: 20000
+
+#problem_23 (Simple Calculator Class )
+Create class:
+Calculator
+Methods:
+add()
+subtract()
