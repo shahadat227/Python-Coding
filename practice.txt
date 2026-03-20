@@ -160,3 +160,13 @@ Calculator
 Methods:
 add()
 subtract()
+
+#problem_24 (Write File )
+Write "Hello Python" into a file.
+
+#problem_25 ( Read File)
+Read and print content from a file.
+
+#problem_26 (Save Multiple Inputs )
+Take input: name, email
+Save into file like: Shahadat, shahadat@email.com
