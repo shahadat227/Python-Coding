@@ -13,6 +13,12 @@ Topics Covered:
 7. Error Handling
 8. Mini Python Projects
 
+## Projects
+- Calculator
+- Guessing Game
+- Password Generator
+- User Manager
+
 This repository is designed to help beginners learn Python step by step.
 
 Author: Shahadat
